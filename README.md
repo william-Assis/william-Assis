@@ -3,6 +3,7 @@
 Estou em constante evolução para me torna um profissional cada vez melhor, estudando e buscando conhecimento nas melhores praticas e tecnologias do mercado de programação.
 
 :star: Apaixonado por desafios e aprender coisas novas.
+
 :star: Autodidata e amante da inovação.
 
 
