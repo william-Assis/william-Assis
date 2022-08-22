@@ -1,7 +1,9 @@
-## Hi 👋
+##  Olá! Sou William Assis 👋.
 
-:star: I am passionate about challenges and troubleshooting using code
+Estou em constante evolução para me torna um profissional cada vez melhor, estudando e buscando conhecimento nas melhores praticas e tecnologias do mercado de programação.
 
-:star: Self-taught and lover of innovation.
+:star: Apaixonado por desafios e aprender coisas novas.
+:star: Autodidata e amante da inovação.
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-William%20Assis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-santos-assis/)](https://www.linkedin.com/in/william-santos-assis/) 
