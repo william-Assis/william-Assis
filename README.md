@@ -1,4 +1,4 @@
-##  Olá! Sou William Assis 👋.
+##  Olá! Eu sou William Assis 👋.
 
 Estou em constante evolução para me torna um profissional cada vez melhor, estudando e buscando conhecimento nas melhores praticas e tecnologias do mercado de programação.
 
