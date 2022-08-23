@@ -33,11 +33,8 @@
  
  ### Redes sociais e contatos:
   <div> 
-   <a href="https://instagram.com/isnaira.souza" alt="Instagram"><img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-   <a href="https://www.facebook.com/isnaira.souza/" alt="Facebook"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
-   <a href="https://www.linkedin.com/in/isnairasouza/" alt="Linkedin"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-   <a href="mailto:isnaira.anjos@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-   <a href="https://api.whatsapp.com/send?phone=5587988338189" alt="WhatsApp"><img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+   <a href="https://www.linkedin.com/in/william-santos-assis/" alt="Linkedin"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+   <a href="mailto:" alt="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
    
    ![Snake animation](https://github.com/IsnaDev/IsnaDev/blob/output/github-contribution-grid-snake.svg)
   
